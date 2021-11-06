@@ -4,6 +4,9 @@
 This project is a Node API made with Express and MongoDB database to represent a manipulation of a deck of cards.
 
 ## Run
+To generate node_modules:
+`yarn`
+
 To run the project in development mode:
 `yarn dev`
 
